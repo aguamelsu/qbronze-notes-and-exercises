@@ -10,11 +10,11 @@ It serves as a **living portfolio** of my progress, combining the notes I took f
 ## 📂 Structure
 
 qbronze-notes-and-exercises/
-- ***notes/*** # Workshop notes classified by topic
+- ***notebooks/*** # Workshop notes classified by topic
 
-- ***exercises/*** # Official QBronze exercises
+- ***exercises-problems/*** # Official QBronze exercises
 
-- ***practice-problems/*** # Extra problems tooked from the web
+- ***practice/*** # Official QBronze exercises and extra problems tooked from the web
 
 - ***projects/*** # Mini-projects applying workshop concepts (More like a sandbox)
 
